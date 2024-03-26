@@ -51,7 +51,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'pets.apps.PetsConfig',
     'rest_framework',    
-    "corsheaders", #add this below all the other apps
+    'corsheaders', #add this below all the other apps
 ]
 
 MIDDLEWARE = [
